@@ -1,9 +1,14 @@
 /.idea/
 /mybatis.iml
 
-/mybatis-001-introduction/LOG_HOME_IS_UNDEFINED
+/mybatis-001-introduction/LOG_HOME_IS_UNDEFINED/
 /mybatis-001-introduction/target/
 /mybatis-001-introduction/mybatis-001-introduction.iml
+
+
+/mybatis-002-crud/LOG_HOME_IS_UNDEFINED/
+/mybatis-002-crud/target/
+/mybatis-002-crud/mybatis-002-crud.iml
 
 
 
